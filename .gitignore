@@ -11,8 +11,9 @@ __pycache__/
 dist/
 build/
 
-# Wordlist (large file; uncomment if you don't want to track it)
-# rockyou.txt
+# Wordlist (too large for GitHub; download separately)
+rockyou.txt
+**/rockyou.txt
 
 # IDE / OS
 .idea/
