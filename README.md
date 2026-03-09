@@ -1,6 +1,7 @@
-# SEGPRD — Segurança em Redes e Prática de Desenvolvimento
+# SEGPRD — Segurança e Privacidade de Dados
 
-Repository for the **Segurança em Redes e Prática de Desenvolvimento** course (practical labs and exercises).
+**SEGPRD** = *Segurança e Privacidade de Dados*.  
+Repository for the SEGPRD course (practical labs and exercises).
 
 ## Structure
 
