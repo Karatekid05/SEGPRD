@@ -7,5 +7,6 @@ This folder contains the exercises for **PL1**.
 | Folder | Description |
 |--------|-------------|
 | **Exercise1-DES** | DES: OpenSSL tasks + brute-force tool and analysis (key complexity, symbol domain, plot, 3DES comparison) |
+| **Exercise2-AES** | AES: Encrypt/decrypt file, timing, comparison with DES and 3DES |
 
 Each exercise has its own `README.md` with the full report and instructions.
